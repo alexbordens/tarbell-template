@@ -9,7 +9,7 @@ from flask import Blueprint
 from jinja2 import evalcontextfilter, Markup
 from time import time
 
-NAME = "Basic Bootstrap 3 template"
+NAME = "Alex's Basic Bootstrap 3 template"
 
 blueprint = Blueprint('base', __name__)
 
